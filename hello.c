@@ -3,9 +3,7 @@
 int main ()
 {
 
- int a,b,c;
-
- scanf
+ printf("hello world");
 
     return 0;
 }
